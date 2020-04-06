@@ -18,3 +18,21 @@ Other commands:
 
 The tutorial that I used to learn JavaScript and DiscordBots can be found here:
 https://discordjs.guide/#before-you-begin
+
+
+
+
+# Instructions to Run Bot on Discord
+
+1. Follow the instructions on Installations & Preperations on this site:
+   https://discordjs.guide/preparations/
+
+   Skip the section called "Setting up a linter"
+
+2. Download the files and move `dndbot.js`, `config.json`, and the `commands` folder to a separate folder. 
+
+3. Open `config.json` and make sure to replace "your-token-goes-here" with the token of your discord bot (leave quotations around the token). 
+
+4. Go to the console window, navigate to the folder with all the files, and type `node dndbot.js`
+
+5. Go back to your discord server with the bot and try out any command!
