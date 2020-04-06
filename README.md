@@ -22,7 +22,7 @@ https://discordjs.guide/#before-you-begin
 
 
 
-# Instructions to Run Bot on Discord
+# Instructions to Run the Bot on Discord
 
 1. Follow the instructions on Installations & Preperations on this site:
    https://discordjs.guide/preparations/
