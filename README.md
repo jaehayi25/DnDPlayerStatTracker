@@ -1,5 +1,5 @@
-# DnD_health_tracker
-A discord bot for dnd that keeps track of player health! 
+# Dungeons and Dragons - Health Tracker
+A discord bot for DnD that keeps track of player health
 
 Functionality:
 - !addPlayer {name} {description}: creates a player with name, description, hp = 0, and maxhp = 0
