@@ -12,6 +12,7 @@ Commands:
 - !updatehp {name} {amount}: updates health of player with given name by amount 
 - !maxhp {name}: gives maxhp of player with given name
 - !updatemaxhp {name} {amount}: updates maxhp of player with given name by amount
+- !roll {number}: randomly generates a number between 1 and the given number
 
 Other commands:
 - !ping: pong. 
